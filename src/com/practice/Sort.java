@@ -1,7 +1,7 @@
 package com.practice;
 
 /**
- * Implements Selection Sort, Bubble Sort and Binary Search
+ * Implements Selection Sort, Bubble Sort
  */
 public class Sort {
 
